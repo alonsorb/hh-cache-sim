@@ -5,4 +5,5 @@ GenericName=Cache simlator
 Comment=Harris and Harris cache simulator
 Icon=hh-cache-sim
 Terminal=false
+Categories=Utility;
 Exec=hh-cache-sim

@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>RoundPane.qml</file>
+        <file>CacheGridField.qml</file>
+        <file>AddressTextInput.qml</file>
+        <file>CacheGrid.qml</file>
+        <file>ConfigItem.qml</file>
+        <file>HitMissIndicator.qml</file>
+        <file>Separator.qml</file>
+        <file>../img/error.svg</file>
+        <file>../img/info.svg</file>
+        <file>../img/warning.svg</file>
+        <file>../fonts/RobotoMono-Regular.ttf</file>
+        <file>../fonts/Roboto-Regular.ttf</file>
+    </qresource>
+</RCC>

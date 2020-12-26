@@ -71,7 +71,7 @@ script:
       echo "Create deploy folder"
       mkdir deploy
       cp ../$BIN.desktop deploy/
-      cp ../icon.png deploy/
+      cp ../$BIN.png deploy/
       mv $BIN deploy/
       echo "Donwloading and runing linuxdeployqt"
       wget -c "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"

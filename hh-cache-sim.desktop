@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=hh-cache-sim
+GenericName=Cache simlator
+Comment=Harris and Harris cache simulator
+Icon=hh-cache-sim
+Terminal=false
+Exec=hh-cache-sim

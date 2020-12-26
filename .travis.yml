@@ -99,7 +99,6 @@ script:
       make
       echo "Run macdeployqt"
       macdeployqt $BIN.app/ -qmldir=../qml -dmg
-      #find . | grep dmg
     fi
 
 after_success:
